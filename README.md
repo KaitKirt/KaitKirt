@@ -1,16 +1,26 @@
-## Hi there 👋
+## 💎 Hey, It's Kaitlyn Kirt
 
-<!--
-**KaitKirt/KaitKirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Stats & Cognitive Science @ Rice University  
+💡 Passionate about data, AI, and human-centered design
 
-Here are some ideas to get you started:
+🔍 Interested in HCI, ethical AI, and responsible tech  
+📊 Tools: Power BI, R, SQL, Python (learning)  
+🧠 Skilled in DAX, Power Query, UX thinking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Experience:  
+• Howard Hughes – AI & ML for real estate innovation  
+• Slalom – Dashboards & analytics for oil & gas clients  
+• Belvedere – Quant trading externship in Chicago
+
+🌱 Currently exploring: AI policy, UX design, and ML ethics  
+🛠 Building smart, empathetic data systems  
+
+📁 Portfolio: [Personal Website](https://kaitkirt.github.io/KaitlynKirt.github.io/)  
+🔗 LinkedIn: [@kaitlynkirt2005](https://www.linkedin.com/in/kaitlynkirt2005)  
+📫 Email: kk108@rice.edu
+
+---
+
+✨ Always building, always learning — and always designing with empathy and intention.
+
+[![Kaitlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaitKirt&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
